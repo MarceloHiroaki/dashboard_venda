@@ -30,7 +30,7 @@ requests
 rpds-py                   
 six                       
 smmap                     
-streamlit                 
+streamlit==1.45.1                
 tenacity                  
 toml                      
 tornado                   
